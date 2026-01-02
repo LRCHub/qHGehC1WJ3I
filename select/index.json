@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノンフィクションヒーローショー",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-01-02T15:57:28.360753Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノンフィクションヒーローショー",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ノンフィクションヒーローショー_みらくらぱーく!.txt"
+    }
+  ]
+}
